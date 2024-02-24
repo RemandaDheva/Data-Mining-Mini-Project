@@ -1,2 +1,3 @@
-# Data-Mining-Mini-Project
-Mini Project Praktikum Data Mining
+# Preferensi Penonton Drama Korea di Seluruh Dunia
+Drama Korea atau Korean Drama adalah drama asal Korea Selatan yang populer di seluruh dunia. Drama Korea memiliki ciri khas tersendiri, seperti gaya aktor atau aktres, musik, tema, dan gaya pemeranan yang unik. Hal ini menjadi faktor yang mempengaruhi pengaruh drama Korea di seluruh dunia.
+Pengaruh drama Korea adalah dampak yang dihasilkan oleh drama Korea terhadap individu, masyarakat, dan budaya di berbagai wilayah dan negara di seluruh dunia. Pengaruh ini dapat terjadi dalam berbagai bentuk dan dimensi, seperti pengaruh budaya, pemasaran, sosial, hingga pendidikan.
